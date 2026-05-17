@@ -20,6 +20,7 @@ function check1(num) {
 }
 
 check1(num)
+ 
 
 
 // using for loop
@@ -40,7 +41,7 @@ function check2(num) {
 
     }
 
-    console.log("count ",count)
+    console.log("count ", count)
 
 }
 

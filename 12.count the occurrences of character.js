@@ -16,7 +16,7 @@ check1("dharmik", "d")
 
 // Method 1: Count frequency of each character using object
 
-let str="sms"
+let str = "sms"
 
 function check2(str) {
 
@@ -30,10 +30,10 @@ function check2(str) {
             count[n] = 1
         }
 
-        
+
 
     }
-console.log(count)
+    console.log(count)
 }
 
 check2(str)

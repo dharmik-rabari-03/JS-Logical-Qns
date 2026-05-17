@@ -6,4 +6,4 @@ const CtoF = (c) => {
 
 }
 
-CtoF(20)
+CtoF(20)  

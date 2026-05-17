@@ -8,4 +8,4 @@ const FtoC = (f) => {
 
 }
 
-FtoC(20)
+FtoC(20) 
